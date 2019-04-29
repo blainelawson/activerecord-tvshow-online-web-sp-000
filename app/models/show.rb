@@ -6,5 +6,4 @@ class Show < ActiveRecord::Base
   def most_popular_show
     highest_rating
   end
-  end
 end
